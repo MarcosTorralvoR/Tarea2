@@ -1,2 +1,0 @@
-Linea1
-Cambio1 + Cambio2
